@@ -1,0 +1,46 @@
+h1{
+    text-align: center;
+    font-size: 40px;
+}
+img{
+    width: 200px;
+    height: 190px;
+    float: right;
+    margin-right: 17px;
+    margin-top: 17px;
+   
+    
+}
+body{
+    margin-left: 300px;
+    margin-right: 300px;
+    font-size: 15px;
+}
+header{
+    font-weight: bold;
+    background-color:rgb(161, 112, 112); 
+    border-bottom: black;
+    background-image: url("foto7.jpg");
+}
+#cabeza{
+    margin-left: 20px;
+    border-bottom: black;
+}
+.cont{
+    display: flex;
+    flex-wrap: wrap;
+    border-top: black;
+}
+aside{
+    background-color: rgb(231, 180, 180);
+    padding: 20px;
+    flex: 30px;
+    background-image: url("foto7.jpg");
+}
+section{
+    color: rgb(0, 0, 0);
+    background-color: rgb(202, 202, 202);
+    padding: 20px;
+    flex: 49%;
+    background-image: url("foto7.jpg");
+}
