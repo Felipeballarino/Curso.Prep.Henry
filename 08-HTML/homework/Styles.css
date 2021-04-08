@@ -2,11 +2,11 @@ img{
     width: 400px;
 }
 #thirdDiv{
-    height: 600px;
-    width: 500px;
-    background-color: chartreuse;
+    height: 500px;
+    width: 600px;
+    background-color:cadetblue;
     padding: 50px;
-    border-color: brown;
+    border:10PX solid black;
 
 }
 #spanId{
